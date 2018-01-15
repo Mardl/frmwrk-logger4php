@@ -1,7 +1,6 @@
 {
     "name": "frameworks/logger4php",
     "description": "A versatile logging framework for PHP",
-    "homepage": "http://repo.dreiwerken.intern/frameworks/logger4php",
     "type": "library",
     "autoload": {
         "classmap": ["src/main/php/"]
