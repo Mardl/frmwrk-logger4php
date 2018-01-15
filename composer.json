@@ -1,5 +1,5 @@
 {
-    "name": "frameworks/logger4php",
+    "name": "Mardl/frmwrk-logger4php",
     "description": "A versatile logging framework for PHP",
     "type": "library",
     "autoload": {
